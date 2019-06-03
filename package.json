@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Levii01/todo-app-js/issues"
   },
-  "homepage": "https://github.com/Levii01/todo-app-js#readme"
+  "homepage": "https://github.com/Levii01/todo-app-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
