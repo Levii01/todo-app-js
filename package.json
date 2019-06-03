@@ -1,0 +1,25 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo list application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Levii01/todo-app-js.git"
+  },
+  "keywords": [
+    "todo",
+    "node",
+    "vue",
+    "express"
+  ],
+  "author": "Emsi (Miłosz Sędziak)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Levii01/todo-app-js/issues"
+  },
+  "homepage": "https://github.com/Levii01/todo-app-js#readme"
+}
