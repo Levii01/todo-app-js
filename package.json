@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Levii01/todo-app-js#readme",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^2.6.2",
     "express": "^4.17.1"
   }
 }
