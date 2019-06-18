@@ -15,3 +15,7 @@ app.listen(3000, function () {
 });
 
 app.set('view engine', 'ejs');
+
+app.post('/addtask', function (req, res) {
+  res.render('index')
+});
