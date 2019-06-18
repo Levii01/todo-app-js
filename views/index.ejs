@@ -19,6 +19,9 @@
         <button formaction="/removetask" type="submit"> Remove </button>
       </form>
       <h2> Completed task </h2>
+      <% completedTasks.map( task => { %>
+        <li><input type="checkbox" checked><%= task %> </li>
+  <% }) %>
     </div>
   </body>
 </html>
